@@ -54,7 +54,7 @@ An enterprise-grade financial data parsing application built with Next.js, TypeS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/financial-data-parser.git
+   git clone https://github.com/fahadnasir13/financial-data-parser.git
    cd financial-data-parser
    ```
 
@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@financialparser.com or join our Slack channel.
+For support, email fahadnasir1311@gmail.com or join our Slack channel.
 
 ## 🔄 Changelog
 
@@ -243,6 +243,5 @@ For support, email support@financialparser.com or join our Slack channel.
 - Comprehensive test suite
 - Production-ready deployment configuration
 
----
 
-Built with ❤️ by the Financial Data Parser Team
+
